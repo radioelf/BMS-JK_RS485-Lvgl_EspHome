@@ -1,1 +1,1 @@
-images
+Colocar la carpeta images junto a bmsJK-lvgl.yaml
